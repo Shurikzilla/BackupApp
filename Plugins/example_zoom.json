@@ -1,0 +1,11 @@
+{
+  "Zoom": {
+    "files": [],
+    "folders": [
+      "%APPDATA%\\Zoom"
+    ],
+    "registry": [
+      "HKEY_CURRENT_USER\\Software\\Zoom"
+    ]
+  }
+}

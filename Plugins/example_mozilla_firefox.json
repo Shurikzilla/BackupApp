@@ -1,0 +1,11 @@
+{
+  "Mozilla Firefox": {
+    "files": [],
+    "folders": [
+      "%APPDATA%\\Mozilla\\Firefox\\Profiles"
+    ],
+    "registry": [
+      "HKEY_CURRENT_USER\\Software\\Mozilla"
+    ]
+  }
+}

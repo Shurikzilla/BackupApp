@@ -1,0 +1,21 @@
+{
+  "MyCustomApp": {
+    "files": [
+      "%APPDATA%\\MyCustomApp\\settings.ini"
+    ],
+    "folders": [
+      "%LOCALAPPDATA%\\MyCustomApp\\Cache"
+    ],
+    "registry": [
+      "HKEY_CURRENT_USER\\Software\\MyCustomApp"
+    ]
+  },
+  "ExampleTool": {
+    "files": [],
+    "folders": [
+      "%USERPROFILE%\\Documents\\ExampleToolData"
+    ],
+    "registry": []
+  }
+}
+

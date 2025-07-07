@@ -1,0 +1,9 @@
+{
+  "VLC": {
+    "files": [],
+    "folders": [
+      "%APPDATA%\\vlc"
+    ],
+    "registry": []
+  }
+}

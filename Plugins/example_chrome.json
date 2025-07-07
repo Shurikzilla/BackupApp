@@ -1,0 +1,12 @@
+{
+  "Google Chrome": {
+    "files": [],
+    "folders": [
+      "%LOCALAPPDATA%\\Google\\Chrome\\User Data\\Default"
+    ],
+    "registry": [
+      "HKEY_CURRENT_USER\\Software\\Google\\Chrome"
+    ]
+  }
+}
+

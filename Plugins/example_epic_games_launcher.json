@@ -1,0 +1,10 @@
+{
+  "Epic Games Launcher": {
+    "files": [],
+    "folders": [
+      "%LOCALAPPDATA%\\EpicGamesLauncher",
+      "%PROGRAMDATA%\\Epic"
+    ],
+    "registry": []
+  }
+}

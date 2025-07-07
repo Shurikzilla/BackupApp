@@ -1,0 +1,11 @@
+{
+  "Microsoft Edge": {
+    "files": [],
+    "folders": [
+      "%LOCALAPPDATA%\\Microsoft\\Edge\\User Data\\Default"
+    ],
+    "registry": [
+      "HKEY_CURRENT_USER\\Software\\Microsoft\\Edge"
+    ]
+  }
+}

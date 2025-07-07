@@ -1,0 +1,11 @@
+2025-07-06 23:20:17,886 INFO: [GUI] Обновлён список программ (1)
+2025-07-06 23:23:46,942 INFO: [GUI] Обновлён список программ (2)
+2025-07-06 23:24:23,240 INFO: [BACKUP] Folder: C:\Users\shuri\AppData\Local\Vivaldi\User Data\Default
+2025-07-06 23:24:23,335 INFO: [BACKUP] Registry: HKEY_CURRENT_USER\Software\Vivaldi
+2025-07-06 23:26:02,161 INFO: [ZIP] Backup\Vivaldi_backup.zip
+2025-07-06 23:26:08,869 INFO: [GUI] Обновлён список программ (2)
+2025-07-06 23:27:56,490 INFO: [GUI] Обновлён список программ (4)
+2025-07-06 23:30:55,581 INFO: [GUI] Обновлён список программ (4)
+2025-07-06 23:31:19,407 INFO: [BACKUP] Folder: C:\Users\shuri\AppData\Roaming\Opera Software\Opera Stable
+2025-07-06 23:31:19,438 INFO: [BACKUP] Registry: HKEY_CURRENT_USER\Software\Opera Software
+2025-07-06 23:32:47,185 INFO: [ZIP] Backup\Opera_backup.zip

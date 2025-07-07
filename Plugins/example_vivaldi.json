@@ -1,0 +1,11 @@
+{
+  "Vivaldi": {
+    "files": [],
+    "folders": [
+      "%LOCALAPPDATA%\\Vivaldi\\User Data\\Default"
+    ],
+    "registry": [
+      "HKEY_CURRENT_USER\\Software\\Vivaldi"
+    ]
+  }
+}

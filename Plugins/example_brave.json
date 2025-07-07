@@ -1,0 +1,11 @@
+{
+  "Brave": {
+    "files": [],
+    "folders": [
+      "%LOCALAPPDATA%\\BraveSoftware\\Brave-Browser\\User Data\\Default"
+    ],
+    "registry": [
+      "HKEY_CURRENT_USER\\Software\\BraveSoftware"
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "OBS Studio": {
+    "files": [],
+    "folders": [
+      "%APPDATA%\\obs-studio"
+    ],
+    "registry": []
+  }
+}

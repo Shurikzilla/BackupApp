@@ -1,0 +1,11 @@
+{
+  "Steam": {
+    "files": [],
+    "folders": [
+      "%PROGRAMFILES(X86)%\\Steam\\userdata"
+    ],
+    "registry": [
+      "HKEY_CURRENT_USER\\Software\\Valve\\Steam"
+    ]
+  }
+}
